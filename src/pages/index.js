@@ -8,7 +8,7 @@ import Icon from "../assets/logo-svg.svg";
 const IndexPage = () => (
 
   <Layout>
-    <div className="hidden sm:flex flex-col items-end h-auto">
+    <div className="flex flex-col items-end h-auto">
       <div className="bg-black inset-0 z-0  px-4">
       </div>
 
