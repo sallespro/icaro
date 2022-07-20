@@ -5,7 +5,7 @@ const { theme } = resolveConfig(tailwindConfig)
 const path = require(`path`)
 
 module.exports = {
-  pathPrefix: "/flightdocs",
+  pathPrefix: "/icaro",
   siteMetadata: {
     title: "Icaro Paragliders",
     author: "Rafael Rocco Salles",
