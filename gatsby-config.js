@@ -6,6 +6,7 @@ const path = require(`path`)
 
 module.exports = {
   pathPrefix: "/icaro",
+  assetPrefix: "/icaro",
   siteMetadata: {
     title: "Icaro Paragliders",
     author: "Rafael Rocco Salles",
